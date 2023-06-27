@@ -1,19 +1,11 @@
-import time
+# -- coding: utf-8 --
+
 import bisect
+import sys
+sys.path.insert(1, 'lib\\useful_functions\\')
+import time_of_func
 
-def time_of_function(function_to_decorate):
-    '''
-    время выполнения функции
-    '''
-    def wrapper(arg1, arg2, arg3):
-        start = time.time()
-        result = function_to_decorate(arg1, arg2, arg3)
-        end = time.time() - start
-        print(f'{function_to_decorate.__name__}: O(n) = {end}')
-        return result
-    return wrapper
-
-@time_of_function
+@time_of_func.timeoffunction
 def binary_search(end: int, step: int, item: int) -> int:
     '''
     бинарный поиск\n
@@ -22,13 +14,8 @@ def binary_search(end: int, step: int, item: int) -> int:
     print(binary_search(40000, 3, 198))
     -------------
     '''
-    # my_list: list = []
-    # my_list = [i for i in range(0, end, step)]
-    # low: int = 0                            #нижняя граница
-    # high: int = len(my_list)-1              #верхняя граница
-
     my_list = list(range(0, end, step))
-    low, high = 0, len(my_list)-1
+    low, high = 0, len(my_list)-1           #нижняя и верхняя граница
     
 
     while  low <= high:                     #пока часть не сократится до 1го эл-та
@@ -43,7 +30,7 @@ def binary_search(end: int, step: int, item: int) -> int:
             low = mid + 1
     return None                             #значение не существует
 
-@time_of_function
+@time_of_func.timeoffunction
 def binary_search_2(end: int, step: int, item: int) -> int:
     my_list = list(range(0, end, step))
     index = bisect.bisect_left(my_list, item)
@@ -52,4 +39,4 @@ def binary_search_2(end: int, step: int, item: int) -> int:
     return -1
 
 if __name__ == "__main__":
-    print(binary_search(400000, 1, 19800))
+    print(binary_search(400000, 3, 19800))
