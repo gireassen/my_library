@@ -8,6 +8,7 @@
   1. [Бинарный поиск](https://github.com/gireassen/my_library/blob/main/lib/%D0%93%D1%80%D0%BE%D0%BA%D0%B0%D0%B5%D0%BC%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B/binary_search.py)
 * Разное
   1. [Шпаргалка по MD](https://markdownlivepreview.com/)
-
+  2. [Функция факториал]()
+  3. [Функция декоратор для вычисления времени работы функции]()
 
 
