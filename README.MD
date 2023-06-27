@@ -6,9 +6,11 @@
   3. [Основы асинхронности в Python #3: Асинхронность на колбэках](https://github.com/gireassen/my_library/blob/main/lib/async_python_3/async_callback.py)
 * Грокаем алгоритмы
   1. [Бинарный поиск](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/binary_search.py)
+* Полезные функции
+  1. [Функция факториал](https://github.com/gireassen/my_library/blob/main/lib/useful_functions/factorial.py)
+  2. [Функция декоратор для вычисления времени работы функции](https://github.com/gireassen/my_library/blob/main/lib/useful_functions/time_of_func.py)
 * Разное
   1. [Шпаргалка по MD](https://markdownlivepreview.com/)
-  2. [Функция факториал](https://github.com/gireassen/my_library/blob/main/lib/useful_functions/factorial.py)
-  3. [Функция декоратор для вычисления времени работы функции](https://github.com/gireassen/my_library/blob/main/lib/useful_functions/time_of_func.py)
+
 
 
