@@ -8,7 +8,7 @@
   1. [Бинарный поиск](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/binary_search.py)
 * Разное
   1. [Шпаргалка по MD](https://markdownlivepreview.com/)
-  2. [Функция факториал]()
-  3. [Функция декоратор для вычисления времени работы функции]()
+  2. [Функция факториал](https://github.com/gireassen/my_library/blob/main/lib/useful_functions/factorial.py)
+  3. [Функция декоратор для вычисления времени работы функции](https://github.com/gireassen/my_library/blob/main/lib/useful_functions/time_of_func.py)
 
 
