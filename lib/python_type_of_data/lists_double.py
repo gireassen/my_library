@@ -49,10 +49,8 @@ class doubly_linked_list(object):                               # класс д�
 
 if __name__ == "__main__":
     items = doubly_linked_list()
-    items.append_item(1)
-    items.append_item(2)
-    items.append_item(3)
-    items.append_item(4)
-    items.append_item(5)
+    
+    for i in range(1,10,1):
+        items.append_item(i)
 
     items.print_foward()
