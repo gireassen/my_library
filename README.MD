@@ -9,7 +9,9 @@
 * Полезные функции
   1. [Функция факториал](https://github.com/gireassen/my_library/blob/main/lib/useful_functions/factorial.py)
   2. [Функция декоратор для вычисления времени работы функции](https://github.com/gireassen/my_library/blob/main/lib/useful_functions/time_of_func.py)
-  3. [Связный список на Python]()
+  3. Связный список на Python
+      1. [Односвязный/double linked list](https://github.com/gireassen/my_library/blob/main/lib/python_type_of_data/lists.py)
+      2. [Двусвязный/double linked list](https://github.com/gireassen/my_library/blob/main/lib/python_type_of_data/lists_double.py)
 * Разное
   1. [Шпаргалка по MD](https://markdownlivepreview.com/)
 
