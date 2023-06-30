@@ -11,7 +11,8 @@ async def long_task():
         print('long')
 
 async def main():
-    results = await asyncio.gather(short_task(), long_task())
+    await asyncio.gather(short_task(), long_task())
+    #result = await asyncio.gather(short_task(), long_task())
 
 if __name__ == "__main__":
     loop = asyncio.new_event_loop()
