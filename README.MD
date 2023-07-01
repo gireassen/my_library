@@ -5,6 +5,7 @@
   2. [Основы асинхронности в Python #2: Асинхронность с простыми функциями. Событийный цикл](https://github.com/gireassen/my_library/blob/main/lib/async_python_2/async_event_loop.py)
   3. [Основы асинхронности в Python #3: Асинхронность на колбэках](https://github.com/gireassen/my_library/blob/main/lib/async_python_3/async_callback.py)
   4. [Основы асинхронности в Python #4: Генераторы и событийный цикл Round Robin](https://github.com/gireassen/my_library/blob/main/lib/async_python_4/generators.py)
+  5. [Основы асинхронности в Python #5: Асинхронность на генераторах]()
 * Грокаем алгоритмы
   1. [Бинарный поиск](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/binary_search.py)
   2. [Сортировка выбором](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/selection_sort.py)
