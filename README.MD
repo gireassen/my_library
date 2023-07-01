@@ -1,4 +1,4 @@
-# Моя библиотека с информацией для Python и не только
+# Моя библиотека с информацией по Python и не только
 
 * Основы асинхронности в Python
   1. [Основы асинхронности в Python #1: Введение](https://github.com/gireassen/my_library/blob/main/lib/async_python_1/async_base.py)
@@ -13,6 +13,10 @@
   3. Связный список на Python
       1. [Односвязный/double linked list](https://github.com/gireassen/my_library/blob/main/lib/python_type_of_data/lists.py)
       2. [Двусвязный/double linked list](https://github.com/gireassen/my_library/blob/main/lib/python_type_of_data/lists_double.py)
+* Генераторы, итераторы, генераторы списков
+  1. [Генераторы списков]()
+  2. [Генераторы]()
+  3. [Итераторы]()
 * Разное
   1. [Шпаргалка по MD](https://markdownlivepreview.com/)
 
