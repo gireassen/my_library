@@ -14,9 +14,9 @@
       1. [Односвязный/double linked list](https://github.com/gireassen/my_library/blob/main/lib/python_type_of_data/lists.py)
       2. [Двусвязный/double linked list](https://github.com/gireassen/my_library/blob/main/lib/python_type_of_data/lists_double.py)
 * Генераторы, итераторы, генераторы списков
-  1. [Генераторы списков]()
-  2. [Генераторы]()
-  3. [Итераторы]()
+  1. [Генераторы списков](https://github.com/gireassen/my_library/blob/main/lib/generator_iterators_comperhension/comperhension.py)
+  2. [Генераторы](https://github.com/gireassen/my_library/blob/main/lib/generator_iterators_comperhension/generators.py)
+  3. [Итераторы](https://github.com/gireassen/my_library/blob/main/lib/generator_iterators_comperhension/iterators.py)
 * Разное
   1. [Шпаргалка по MD](https://markdownlivepreview.com/)
 
