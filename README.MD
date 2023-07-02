@@ -23,6 +23,7 @@
   3. [Итераторы](https://github.com/gireassen/my_library/blob/main/lib/generator_iterators_comperhension/iterators.py)
 * Разное
   1. [Шпаргалка по MD](https://markdownlivepreview.com/)
+  2. [Шпаргалка по MD (вторая)](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/)
 
 
 
