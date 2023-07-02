@@ -9,7 +9,7 @@
 * Грокаем алгоритмы
   1. [Бинарный поиск](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/binary_search.py)
   2. [Сортировка выбором](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/selection_sort.py)
-  3. [Рекурсия]()
+  3. [Рекурсия](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/recursion/RECURSION.MD)
 * Полезные функции
   1. [Функция факториал](https://github.com/gireassen/my_library/blob/main/lib/useful_functions/factorial.py)
   2. [Функция декоратор для вычисления времени работы функции](https://github.com/gireassen/my_library/blob/main/lib/useful_functions/time_of_func.py)
