@@ -39,12 +39,12 @@ def bye():
 ![Alt text](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/stack/image-1.png?raw=true)
 
 Каждый раз, когда вызываем фун-ю, компьютер сохраняет в памяти значение всех перерменных для этого вызова.
-Далее выводится приветствие **Hello Volodya!**, после чего следует второй вызов **greet2(Volodya)**.
+Далее выводится приветствие "***Hello Volodya!***", после чего следует второй вызов **greet2(Volodya)**.
 И снова пк выделяет блок памяти для вызова функции.
 
 ![Alt text](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/stack/image-2.png?raw=true)
 
-Пк объединяет эти блоки в стек. Второй блок создаётся над первым. Мы выводим сообщение **how are you, Volodya?**, после чего возвращаете управление из вызова функции. Когда это происходит, блок на верншине стека извлекается из него.
+Пк объединяет эти блоки в стек. Второй блок создаётся над первым. Мы выводим сообщение "***how are you, Volodya?***", после чего возвращаете управление из вызова функции. Когда это происходит, блок на верншине стека извлекается из него.
 
 ![Alt text](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/stack/image-3.png?raw=true)
 
@@ -55,9 +55,9 @@ def bye():
 
 ![Alt text](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/stack/image-4.png?raw=true)
 
-Выводится сообщение ***rdy to say goodbye***, после вызывается функция **bye()**.
+Выводится сообщение "***rdy to say goodbye***", после вызывается функция **bye()**.
 
-Блок для этой функции добавляетя на ввершину стека. Далее выводится сообщение ***ok, bye!*** с выходом из вызова функции.
+Блок для этой функции добавляетя на ввершину стека. Далее выводится сообщение "***ok, bye!***" с выходом из вызова функции.
 
 ![Alt text](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/stack/image-5.png?raw=true)
 
