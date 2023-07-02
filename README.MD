@@ -17,7 +17,7 @@
   3. Связный список на Python
       1. [Односвязный/double linked list](https://github.com/gireassen/my_library/blob/main/lib/python_type_of_data/lists.py)
       2. [Двусвязный/double linked list](https://github.com/gireassen/my_library/blob/main/lib/python_type_of_data/lists_double.py)
-   4. [Алгоритм Евклида]()
+   4. [Алгоритм Евклида](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/divide_and_conquer/evklid.py)
 * Генераторы, итераторы, генераторы списков
   1. [Генераторы списков](https://github.com/gireassen/my_library/blob/main/lib/generator_iterators_comperhension/comperhension.py)
   2. [Генераторы](https://github.com/gireassen/my_library/blob/main/lib/generator_iterators_comperhension/generators.py)
