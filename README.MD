@@ -11,7 +11,7 @@
   2. [Сортировка выбором](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/selection_sort.py)
   3. [Рекурсия](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/recursion/RECURSION.MD)
   4. [Стэк](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/stack/STACK.MD)
-  5. [Разделяй и властвуй + Функциональное программирование]()
+  5. [Разделяй и властвуй + Функциональное программирование](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/divide_and_conquer/DAC.MD)
 * Полезные функции
   1. [Функция факториал](https://github.com/gireassen/my_library/blob/main/lib/useful_functions/factorial.py)
   2. [Функция декоратор для вычисления времени работы функции](https://github.com/gireassen/my_library/blob/main/lib/useful_functions/time_of_func.py)
