@@ -32,33 +32,35 @@ def bye():
 
 В программе используется вызов greet("Volodya"). Сначала компьютер выделяет блок памяти для этого вызова функции.
 
-![Alt text](image.png)
+![Alt text](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/stack/image.png?raw=true)
 
 Затем эта память используется. Переменной *name* присваивается значение **Volodya**, оно должно быть сохранено в памяти. 
 
-![Alt text](image-1.png)
+![Alt text](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/stack/image-1.png?raw=true)
 
 Каждый раз, когда вызываем фун-ю, компьютер сохраняет в памяти значение всех перерменных для этого вызова.
 Далее выводится приветствие **Hello Volodya!**, после чего следует второй вызов **greet2(Volodya)**.
 И снова пк выделяет блок памяти для вызова функции.
 
-![Alt text](image-2.png)
+![Alt text](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/stack/image-2.png?raw=true)
 
 Пк объединяет эти блоки в стек. Второй блок создаётся над первым. Мы выводим сообщение **how are you, Volodya?**, после чего возвращаете управление из вызова функции. Когда это происходит, блок на верншине стека извлекается из него.
 
-![Alt text](image-3.png)
+![Alt text](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/stack/image-3.png?raw=true)
 
 Теперь верхний блок относится к функции **greet()**, это означает, что вы вернулись к функции **greet()**. При вызове функции **greet2()** функция **greet()** еще <u>*не была завершена*</u>.
 Здесь-то и скрывается истинный смысл Стэка вызовов:
 <u>*Когда вы вызываете функцию, из другой функции, вызывающая функция приостанавливается в частично завершенном состоянии.*</u>
 Все значения переменных этой функции остаются в памяти. А когда выполнение функции **greet2()** закончится, тогда веремся к функции **greet()** и продолжим её выполнение с того места, где оно прервалось.
 
-![Alt text](image-4.png)
+![Alt text](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/stack/image-4.png?raw=true)
 
 Выводится сообщение ***rdy to say goodbye***, после вызывается функция **bye()**.
 
 Блок для этой функции добавляетя на ввершину стека. Далее выводится сообщение ***ok, bye!*** с выходом из вызова функции.
 
-![Alt text](image-5.png)
+![Alt text](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/stack/image-5.png?raw=true)
 
 Управление снова возвращается функции **greet()**.
+
+[Назад](https://github.com/gireassen/my_library)
