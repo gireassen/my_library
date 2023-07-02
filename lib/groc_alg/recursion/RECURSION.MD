@@ -43,4 +43,8 @@ def countdown(i):
 
 [Файл с примером](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/recursion/recursion.py)
 
+### Вывод:
+* Когда функция вызывает саму себя, это рекурсия.
+* В каждой рекурсивной функции должно быть два случая: базовый и рекурсивный.
+
 [Назад](https://github.com/gireassen/my_library)
