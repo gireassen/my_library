@@ -35,4 +35,5 @@ def evklid_deduc(a: int, b: int):
     return a
 
 if __name__ == "__main__":
-    print()
+    asd = evklid_deduc(1680, 640)
+    print(asd)
