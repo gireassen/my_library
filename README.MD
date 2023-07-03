@@ -24,6 +24,9 @@
   1. [Генераторы списков](https://github.com/gireassen/my_library/blob/main/lib/generator_iterators_comperhension/comperhension.py)
   2. [Генераторы](https://github.com/gireassen/my_library/blob/main/lib/generator_iterators_comperhension/generators.py)
   3. [Итераторы](https://github.com/gireassen/my_library/blob/main/lib/generator_iterators_comperhension/iterators.py)
+* Регулярный выражения
+  1. [Видеоуроки (25 уроков)](https://www.youtube.com/playlist?list=PLmSBSL0-aSgkT_l0K0pXdfIKEPJyOZl7c)
+  2. [Удобный веб-редактор регулярных выражений](https://rubular.com/)
 * Разное
   1. [Шпаргалка по MD](https://markdownlivepreview.com/)
   2. [Шпаргалка по MD (вторая)](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/)
