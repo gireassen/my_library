@@ -8,6 +8,7 @@
      4. [Основы асинхронности в Python #4: Генераторы и событийный цикл Round Robin](https://github.com/gireassen/my_library/blob/main/lib/async_python_4/generators.py)
      5. [Основы асинхронности в Python #5: Асинхронность на генераторах](https://github.com/gireassen/my_library/blob/main/lib/async_python_5/async_by_gen.py)
      6. [Основы асинхронности в Python #6: Корутины и yield from](https://github.com/gireassen/my_library/blob/main/lib/async_python_6/corutine_and_yield.py)
+  2. Лучшее [видео](https://www.youtube.com/watch?v=_4QY1nGFRY8) по асинхрнности, многопоточности, многопроцессности
 * Грокаем алгоритмы
   1. [Бинарный поиск](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/binary_search.py)
   2. [Сортировка выбором](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/selection_sort.py)
