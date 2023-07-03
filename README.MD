@@ -1,12 +1,13 @@
 # Моя библиотека с информацией по Python и не только
 
 * Основы асинхронности в Python
-  1. [Основы асинхронности в Python #1: Введение](https://github.com/gireassen/my_library/blob/main/lib/async_python_1/async_base.py)
-  2. [Основы асинхронности в Python #2: Асинхронность с простыми функциями. Событийный цикл](https://github.com/gireassen/my_library/blob/main/lib/async_python_2/async_event_loop.py)
-  3. [Основы асинхронности в Python #3: Асинхронность на колбэках](https://github.com/gireassen/my_library/blob/main/lib/async_python_3/async_callback.py)
-  4. [Основы асинхронности в Python #4: Генераторы и событийный цикл Round Robin](https://github.com/gireassen/my_library/blob/main/lib/async_python_4/generators.py)
-  5. [Основы асинхронности в Python #5: Асинхронность на генераторах](https://github.com/gireassen/my_library/blob/main/lib/async_python_5/async_by_gen.py)
-  6. [Основы асинхронности в Python #6: Корутины и yield from](https://github.com/gireassen/my_library/blob/main/lib/async_python_6/corutine_and_yield.py)
+  1. [Листинг с уроков Олега молчанова](https://www.youtube.com/watch?v=ZGfv_yRLBiY&list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8)
+     1. [Основы асинхронности в Python #1: Введение](https://github.com/gireassen/my_library/blob/main/lib/async_python_1/async_base.py)
+     2. [Основы асинхронности в Python #2: Асинхронность с простыми функциями. Событийный цикл](https://github.com/gireassen/my_library/blob/main/lib/async_python_2/async_event_loop.py)
+     3. [Основы асинхронности в Python #3: Асинхронность на колбэках](https://github.com/gireassen/my_library/blob/main/lib/async_python_3/async_callback.py)
+     4. [Основы асинхронности в Python #4: Генераторы и событийный цикл Round Robin](https://github.com/gireassen/my_library/blob/main/lib/async_python_4/generators.py)
+     5. [Основы асинхронности в Python #5: Асинхронность на генераторах](https://github.com/gireassen/my_library/blob/main/lib/async_python_5/async_by_gen.py)
+     6. [Основы асинхронности в Python #6: Корутины и yield from](https://github.com/gireassen/my_library/blob/main/lib/async_python_6/corutine_and_yield.py)
 * Грокаем алгоритмы
   1. [Бинарный поиск](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/binary_search.py)
   2. [Сортировка выбором](https://github.com/gireassen/my_library/blob/main/lib/groc_alg/selection_sort.py)
