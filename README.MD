@@ -1,4 +1,4 @@
-# Моя библиотека с информацией по Python и не только
+# Информация по Python и не только
 
 * Основы асинхронности в Python
   1. Листинг с уроков [Олега молчанова](https://www.youtube.com/watch?v=ZGfv_yRLBiY&list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8)
