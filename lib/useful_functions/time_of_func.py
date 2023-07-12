@@ -16,7 +16,7 @@ def timeoffunction(functiontodecorate):
         finally:
             endtime = timeit.default_timer()
             elapsedtime = endtime - start_time
-            print(f"{functiontodecorate.__name__}: O(n) = {elapsedtime}")
+            print(f"{functiontodecorate.__name__}: Elapsedtime = {elapsedtime}")
         return result
 
     return wrapper
